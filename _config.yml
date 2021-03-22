@@ -2,31 +2,31 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               따라쟁이의 블로그
+title:               해적선 개발 블로그
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://<username>.github.io
+url:                 https://webdev-yun.github.io/Github-Blog
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "따라쟁이 블로그"
+tagline:             "해적선 개발 블로그"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  따라쟁이의 샘플 블로그입니다.
+  해적선처럼 돌아다니면서 여러 보물을 찾아다니는 지식 개발자입니다 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              xxxx
-  email:             xxxx@xxxx.com
+  name:              Seoyun Kim
+  email:             webdevyun@gmail.com
 
 # Fallback image and color
-image:               /assets/img/main_left.JPG
+image:               /assets/img/pirate.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
