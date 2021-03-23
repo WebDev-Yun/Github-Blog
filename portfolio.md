@@ -23,7 +23,7 @@ font-weight:bold">
 ## Personal Data
 ---
 
-> 연락처: khw11044@gmail.com
+> 연락처: webdevyun@gmail.com
 
 > Github : <a href="https://github.com/WebDevYun">https://github.com/WebDevYun</a>
 
