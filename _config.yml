@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               해적선 개발 블로그
+title:               개발 항해일지
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,12 +13,12 @@ url:                 https://WebDev-Yun.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "해적선 개발 블로그"
+tagline:             "자유롭게 돌아다니는 여정을 담은 블로그"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  해적선처럼 돌아다니면서 여러 보물을 찾아다니는 지식 개발자입니다 
+  해적선처럼 돌아다니면서 여러 보물들을 찾아 스택을 쌓는 지식 개발자입니다 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
