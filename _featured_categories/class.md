@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Class
-slug: class
+title: Programming
+slug: Programming
 menu: true
 submenu: true
 order: 4
 description: >
-  수업  
+  프로그래밍 공부  
 ---
