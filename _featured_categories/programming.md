@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Programming
-slug: Programming
+slug: programming
 menu: true
 submenu: true
 order: 4
