@@ -14,7 +14,7 @@ font-weight:bold">
 </span>
 </center>
 
-<center>MAJOR : Front-End Dev</center>
+<center>MAJOR : Front-End</center>
 
 <center>Korean University</center>
 
