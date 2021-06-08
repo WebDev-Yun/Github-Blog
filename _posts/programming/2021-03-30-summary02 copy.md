@@ -9,13 +9,9 @@ comments: true
 
 ---
 
-
-# 웹 동작원리
-
 - 목차
-    - [1.Communication protocol](#1.Communication protocol)
-    - [2.웹과 앱의 동작원리](#2.웹과 앱의 동작원리)
-
+    + [1.Communication protocol](#1.Communicationprotocol)
+    - [2.웹과 앱의 동작원리](#웹과앱의동작원리)
 
 ## 1.Communication protocol
 ---
